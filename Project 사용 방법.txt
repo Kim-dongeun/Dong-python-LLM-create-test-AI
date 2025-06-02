@@ -1,0 +1,8 @@
+MySQL, Python 3.10 설치 필요
+1. Backend 및 Frontend 폴더의 requirements.txt 설치
+2. FFMPEG 코덱 설치(오류 발생 시)
+3. python database.py 명령어 실행(DB 구축)
+4. python backend.py 명령어 실행 (백엔드)
+5. streamlit run run.py 명령어 실행 (프론트엔드)
+5-1. (데스크탑만 실행하고 싶을 경우) streamlit run main_desktop.py
+5-2. (모바일만 실행하고 싶을 경우) streamlit run main_mobile.py
